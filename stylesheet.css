@@ -1,0 +1,122 @@
+body {
+    padding:0px 100px;
+}
+header{
+    background-color: #BF244E;
+}
+.header-sec {
+    text-align:center;
+    background-color: #222326;
+    border: #222326 ;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 10px;
+}
+.header-sec a {
+    color: #727273 ;
+    font-family: Tw Cen MT Condensed;
+    letter-spacing: 5px;
+    font-size: 50px;
+    text-decoration: none;
+}
+.header-sec h2{
+    color: #727273 ;
+    font-family: Tw Cen MT;
+    letter-spacing: 2px;
+    font-weight: noraml;
+    border:1px none #727273 ;
+    border-radius: 7px;
+    background-color: #34363b;
+    margin: 0px 230px;
+    padding: 10px;
+}
+form {
+    font-family: Tw Cen MT;
+    padding: 50px;
+}
+fieldset{
+    border-style: none;
+    padding-left: 25%;
+}
+.search-box{
+    width: 50%;
+    border: 2px solid  #555;
+    border-radius: 20px; 
+    font-size: 15px;
+    padding: 5px;
+}
+
+.search-btn{
+    width:auto;
+    padding:0px 10px;
+    border: 2px solid  #555;
+    border-radius: 20px;
+    padding: 5px 5px;
+}
+legend{
+    color: #b8b8b8 ;
+}
+.nav li{
+    float: left;
+    padding :5px 15px;
+    list-style: none;
+    background-color: #b8b8b8;
+    border-radius: 15px;
+    text-decoration: none;
+    font-family:Tw Cen MT ;
+    color: #222326;
+    margin: 0px 5px;
+}
+.nav a{
+    text-decoration: none;
+    color: #222326;
+}
+.main-content{
+    background-color: #d3a6b2;
+}
+.main-content p{
+    font-family: Tw Cen MT;
+    font-size: large;
+}
+.main-content h2{
+    font-family: Tw Cen MT Condensed ;
+    font-size: xx-large;
+}
+.main-content a{
+    font-family: Tw Cen MT;
+    text-decoration: none;
+    color:blue;
+}
+.main-content{
+    padding: 0px 40px;
+}
+.mid-title {
+    padding: 10px 20px;
+    border-radius: 20px;
+    
+}
+.clear li{
+    float: left;
+    width:33.33%;
+    list-style: none;
+}
+.bottom li{
+    list-style: circle;
+}
+.two_quarterlastbox img{
+    float: left;
+    padding-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+.wrapperrow3 footer{
+    background-color:  #732036;
+    padding: 20px 40px;
+    text-align: right;
+    font-family: 'Lucida Sans';
+    font-size: 10px;
+    color: #959596;
+}
+.wrapperrow3 footer a{
+    color:#959596 ;
+}
